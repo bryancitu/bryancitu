@@ -1,6 +1,7 @@
-<!-- 
+
   
-# [Sergio Miguel Villa Mendoza](https://www.linkedin.com/in/sergio-miguel-villa-mendoza-1471ba195/)<img height="40"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+# [Bryan Jesús Ramón Avila](http://www.bryancinux.com/)<img height="50"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<!-- 
 [![Linkedin Badge](https://img.shields.io/badge/-sergiovilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vilcajoal/)](https://www.linkedin.com/in/sergio-miguel-villa-mendoza-1471ba195/)
 [![GitHub Badge](https://img.shields.io/badge/-@sergiovilla-%23181717?style=flat-square&logo=github)](https://github.com/rayo80)
 [![Gmail Badge](https://img.shields.io/badge/-sergio.villa.m@uni.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergio.villa.m@uni.edu.pe)](mailto:sergio.villa.m@uni.edu.pe)
