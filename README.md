@@ -2,10 +2,10 @@
   
 # [Bryan Jesús Ramón Avila](http://www.bryancinux.com/)<img height="50"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sergiovilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vilcajoal/)](https://www.linkedin.com/in/sergio-miguel-villa-mendoza-1471ba195/)
-[![GitHub Badge](https://img.shields.io/badge/-@sergiovilla-%23181717?style=flat-square&logo=github)](https://github.com/rayo80)
-[![Gmail Badge](https://img.shields.io/badge/-sergio.villa.m@uni.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergio.villa.m@uni.edu.pe)](mailto:sergio.villa.m@uni.edu.pe)
-[![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=rayo80&url=http%3A%2F%2Fadarshaacharya.com.np%2F)](https://rayo80.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-bryancitu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryancitu/)](https://www.linkedin.com/in/bryancitu/)
+[![GitHub Badge](https://img.shields.io/badge/-@bryancitu-%23181717?style=flat-square&logo=github)](https://github.com/bryancitu)
+[![Gmail Badge](https://img.shields.io/badge/-bryanjesus.ra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bryanjesus.ra@gmail.com)](mailto:bryanjesus.ra@gmail.com)
+[![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=bryancinux&url=http%3A%2F%2Fbryancinux.com.np%2F)](https://www.bryancinux.com/)
 ---
 
 
